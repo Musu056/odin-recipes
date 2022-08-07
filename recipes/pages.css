@@ -1,6 +1,13 @@
 body{
     font-family:'Times New Roman', Times, serif;
+    font-size:20px;
 }
-img{
-    vspace=100; hspace="100";
+
+.img{
+   border-image-width:10px; 
+}
+
+h3{
+    font-size:30px;
+    text-decoration-line: underline;
 }
